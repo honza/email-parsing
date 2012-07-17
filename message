@@ -1,0 +1,99 @@
+Delivered-To: todayiswednesday54@gmail.com
+Received: by 10.60.144.35 with SMTP id sj3csp283062oeb;
+        Mon, 9 Jul 2012 11:16:31 -0700 (PDT)
+Received: by 10.236.74.198 with SMTP id x46mr49807376yhd.7.1341857791131;
+        Mon, 09 Jul 2012 11:16:31 -0700 (PDT)
+Return-Path: <me@honza.ca>
+Received: from mail-yw0-f49.google.com (mail-yw0-f49.google.com [209.85.213.49])
+        by mx.google.com with ESMTPS id o41si27557576yhl.113.2012.07.09.11.16.30
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 09 Jul 2012 11:16:30 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.213.49 is neither permitted nor denied by best guess record for domain of me@honza.ca) client-ip=209.85.213.49;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.213.49 is neither permitted nor denied by best guess record for domain of me@honza.ca) smtp.mail=me@honza.ca
+Received: by mail-yw0-f49.google.com with SMTP id j52so13869001yhj.22
+        for <todayiswednesday54@gmail.com>; Mon, 09 Jul 2012 11:16:30 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject:references
+         :in-reply-to:content-type:x-gm-message-state;
+        bh=Y7hY0l5TlZx0psBRM7F29/2hwx5weUEsg6lQmr9FOwA=;
+        b=ZF3RGD3gB8StRxR3XTWD7DpXw9UjX0As2n8Xy4Vpb/qYhYN1i0QDrH4Y+pn4vuCgMA
+         DKOJmkoHO+UAUSZL3I/x8A384e5rnqu1VqN74mRGXoEL5V4p6yb97hSb0LlxQ4hb/jtP
+         qbaLiu8CNJBo+CUyi1vFt2ALPKKRtduud5irvKqgAFujx5KWJsIXJfNb0J0yz8IkqVAe
+         nbwf05bG9qXdA1jaPisdT1tX/WnvTa60UA/EVpFKxfia2ZWD6XZMDoj3J/lQoHZTCVAo
+         pAvz/h6lRNz+qgGy5VvsmZDD85DdedE/wq3mX6QL2/aIKkFnzLLltc1TpzG/qBCiwAbN
+         7RGQ==
+Received: by 10.50.76.130 with SMTP id k2mr9057603igw.30.1341857790752;
+        Mon, 09 Jul 2012 11:16:30 -0700 (PDT)
+Return-Path: <me@honza.ca>
+Received: from [192.168.1.104] (blk-7-165-213.eastlink.ca. [71.7.165.213])
+        by mx.google.com with ESMTPS id ut5sm21146614igc.13.2012.07.09.11.16.29
+        (version=SSLv3 cipher=OTHER);
+        Mon, 09 Jul 2012 11:16:30 -0700 (PDT)
+Message-ID: <4FFB1FFD.50106@honza.ca>
+Date: Mon, 09 Jul 2012 15:16:29 -0300
+From: Honza Pokorny <me@honza.ca>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:13.0) Gecko/20120614 Thunderbird/13.0.1
+MIME-Version: 1.0
+To: John Smith <todayiswednesday54@gmail.com>
+Subject: Re: This is a subject
+References: <4FFB1026.8000705@honza.ca> <CAOitUL7SLS8nYp1c37hY89ExmgvgxdTurbFegTZHVcSDuM3+JA@mail.gmail.com>
+In-Reply-To: <CAOitUL7SLS8nYp1c37hY89ExmgvgxdTurbFegTZHVcSDuM3+JA@mail.gmail.com>
+Content-Type: multipart/alternative;
+ boundary="------------090107050307070809040606"
+X-Gm-Message-State: ALoCoQkijcOgW1EikwIbjePU7rC7qI1qhPtNBWyt30x5qRDm7V4kYbg0+Meu64WuKrAueWYvGXk9
+
+This is a multi-part message in MIME format.
+--------------090107050307070809040606
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Yes, OK.
+
+On 7/9/12 3:15 PM, John Smith wrote:
+> This is my reply here.
+>
+> On Mon, Jul 9, 2012 at 2:08 PM, Honza Pokorny <me@honza.ca 
+> <mailto:me@honza.ca>> wrote:
+>
+>     Something cool here
+>
+>
+
+
+
+--------------090107050307070809040606
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1"
+      http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Yes, OK.<br>
+    <br>
+    <div class="moz-cite-prefix">On 7/9/12 3:15 PM, John Smith wrote:<br>
+    </div>
+    <blockquote
+cite="mid:CAOitUL7SLS8nYp1c37hY89ExmgvgxdTurbFegTZHVcSDuM3+JA@mail.gmail.com"
+      type="cite">This is my reply here.<br>
+      <br>
+      <div class="gmail_quote">On Mon, Jul 9, 2012 at 2:08 PM, Honza
+        Pokorny <span dir="ltr">&lt;<a moz-do-not-send="true"
+            href="mailto:me@honza.ca" target="_blank">me@honza.ca</a>&gt;</span>
+        wrote:<br>
+        <blockquote class="gmail_quote" style="margin:0 0 0
+          .8ex;border-left:1px #ccc solid;padding-left:1ex">
+          Something cool here<br>
+        </blockquote>
+      </div>
+      <br>
+    </blockquote>
+    <br>
+    <br>
+  </body>
+</html>
+
+--------------090107050307070809040606--
